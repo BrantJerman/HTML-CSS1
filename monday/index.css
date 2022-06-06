@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+p {
+    color: purple;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+image {
+    height: 25vh;
+    width: 25vw;
+}
